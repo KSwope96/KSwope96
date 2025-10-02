@@ -1,14 +1,38 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**KSwope96/KSwope96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
+<p align="left">My name is Katie Swope, and I'm a graduate student from Philly.</p>
 
+###
 
-- 🔭 I’m currently working on getting my master's degree in Library and Information Science 
-- 🌱 I have an undergraduate degree in Anthropology and Political Science and a previous master's in Strategic Communication
-- 👯 My hobbies include archery, knitting/crocheting, reading, and watching the Phillies 
-- 💬 Ask me about my current knitting project 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a corgi named Fergus
--->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Pronouns: she/her<br>📚 I'm currently working on my master's in library and information science<br>🎯 Goals: knit my first sweater and run a mile by the end of the year!<br>🎲 Fun fact: I have a corgi named Fergus</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/katieswope">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=katieswope&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5mdjV2c3hua2J1dmV3amtwanQyNWZmZWl4eGNrendna3g3M2kzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m36rVVozJOPSE0BdsA/giphy.gif"  />
+</div>
+
+###
