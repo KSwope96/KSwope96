@@ -28,7 +28,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=katieswope&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-[Library Management System] https://github.com/prabhakar267/library-management-system
+[Library Management System] (https://github.com/prabhakar267/library-management-system)
 ###
 
 <div align="center">
