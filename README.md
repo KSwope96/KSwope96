@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Pronouns: she/her<br>📚 I'm currently working on my master's in library and information science<br>🎯 Goals: knit my first sweater and run a mile by the end of the year!<br>🎲 Fun fact: I have a corgi named Fergus</p>
+<p align="left">✨ Pronouns: she/her<br>📚 I'm currently working on my master's in library and information science. I currently hold a masters in strategic communication and a bachelor's degree in anthropology and political science with a minor in public administration <b>🎯 Goals: knit my first sweater and run a mile by the end of the year!<br>🎲 Fun fact: I have a corgi named Fergus</p>
 
 ###
 
